@@ -216,8 +216,8 @@ Client check-ins: fortnightly with Athandiwe Saba.
 
 | Name | Student # | Role |
 |------|-----------|------|
-| Thabiso Msimango | u25738497 | Developer |
-| Lungisani Khanyile | u25743695 | Developer |
+| Thabiso Msimango | u25738497 | Data Scientist |
+| Lungisani Khanyile | u25743695 | Data Scientist  |
 
 ---
 
