@@ -5,7 +5,6 @@
 
 **MIT 808 · University of Pretoria · 2026**
 **Team:** NeuroAvengers — Thabiso Msimango (`u25738497`) & Lungisani Khanyile (`u25743695`)
-**Supervisor:** Prof. Vukosi Marivate
 **Client:** Athandiwe Saba (investigative journalist, former *Mail & Guardian* editor)
 
 ---
